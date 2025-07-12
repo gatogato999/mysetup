@@ -1,0 +1,11 @@
+1_shell
+atomic
+clean_detailed
+gruvbox
+velvet
+
+emodipt-extend
+di4am0nd
+craver
+cobalt2
+agnoster

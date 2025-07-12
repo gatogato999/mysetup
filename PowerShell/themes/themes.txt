@@ -1,0 +1,16 @@
+
+    Directory: C:\Users\EVA_Technology\Documents\PowerShell\themes
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---           3/26/2025  7:51 AM           3553 1_shell.omp.json
+-a---           3/26/2025  8:05 AM           9608 atomic.omp.json
+-a---           3/26/2025  7:51 AM           3942 blue-owl.omp.json
+-a---           3/26/2025  7:51 AM           6932 cloud-context.omp.json
+-a---           3/26/2025  7:52 AM           4939 easy-term.omp.json
+-a---           3/26/2025  7:52 AM           4560 gruvbox.omp.json
+-a---           3/26/2025  7:52 AM           2886 kali.omp.json
+-a---           3/26/2025  8:06 AM           6459 kushal.omp.json
+-a---           3/26/2025  7:53 AM          14575 night-owl.omp.json
+-a---            4/1/2025  1:25 PM              0 themes.txt
+
